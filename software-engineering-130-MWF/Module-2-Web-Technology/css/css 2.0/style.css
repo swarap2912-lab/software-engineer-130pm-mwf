@@ -1,0 +1,21 @@
+body 
+{
+margin: 0;
+padding: 0;
+background-color: black;    
+}
+div 
+{
+width: 50%;
+height: auto;
+margin: auto;
+padding: 25px;
+background-color: white;
+margin-top: 5%;    
+}
+
+div:hover 
+{
+background-color: purple;
+color: rgb(183, 143, 227);    
+}

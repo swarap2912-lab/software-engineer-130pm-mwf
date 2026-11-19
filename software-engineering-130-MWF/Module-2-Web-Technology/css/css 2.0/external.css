@@ -1,0 +1,35 @@
+body 
+{
+background-color: black;    
+}
+/* div 
+{
+width: 40%;
+height: auto;
+margin: 15px;
+margin-left: 5%; 
+margin-top: 5%;
+background-color: white;
+padding: 15px;
+float: left;   
+} */
+
+
+div 
+{
+width: 27%;
+height: auto;
+margin: 5px;
+margin-left: 2%; 
+margin-top: 5%;
+background-color: white;
+padding: 15px;
+float: left;   
+}
+
+div:hover
+{
+background-color: purple;
+color: white;
+transition: 1s ease all;    
+}

@@ -1,0 +1,26 @@
+body 
+{
+background-color: black;    
+}
+
+div 
+{
+width: 220px;
+height: 220px;
+margin: 5px;
+margin-left: 4%; 
+margin-top: 5%;
+background-color: white;
+padding: 15px;
+float: left;   
+}
+
+div:hover
+{
+background-color: brown;
+color: white;
+transition: 5s ease all;  
+border-radius: 50%;  
+text-align: center;
+transform: rotate(360deg);
+}
